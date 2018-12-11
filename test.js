@@ -1,1 +1,3 @@
-alert(1);
+function test(){
+  window.location.href="http://testgamecenter.iblocke.com/";
+}
