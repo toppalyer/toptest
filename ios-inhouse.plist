@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/toppalyer/toptest/releases/download/v1/Live.ipa</string>
+					<string>https://raw.githubusercontent.com/toppalyer/toptest/master/Live.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,15 +19,15 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/toppalyer/toptest/releases/download/v1/logo.png</string>
-				</dict>
+					<string>
+				</dict>https://raw.githubusercontent.com/toppalyer/toptest/master/logo.png</string>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://github.com/toppalyer/toptest/releases/download/v1/57.png</string>
+					<string>https://raw.githubusercontent.com/toppalyer/toptest/master/57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
